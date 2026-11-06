@@ -9,7 +9,7 @@ We use the official **UCI Red Wine Quality dataset**, consisting of 1,599 instan
 - **Target (Output):** Binary outcome derived from the original `quality` rating score (0 to 10).
 
 ## c. GitHub Repository Link
-*GitHub Repository Link: 
+*GitHub Repository Link: https://github.com/05056-arch/vineyard.git
 
 ## d. Models Used:
 We trained and validated five distinct classification paradigms on standard preprocessed metrics:
