@@ -75,7 +75,7 @@ button[aria-selected="true"] {
 """, unsafe_allow_html=True)
 
 st.title("🍷 Red Wine Quality Interactive Classifier")
-st.write("Deploy this app instantly to Streamlit Cloud. It trains 5 machine learning models and performs metrics assessment, classification reports, and real-time predictions.")
+st.write("5 Machine learning models are trained to perform metrics assessment, classification reports, and real-time predictions.\n Use the side bar to check out the quality of your wine by making selections")
 
 # --- Step 1: Dataset Loading ---
 st.sidebar.header("📁 Dataset Source")
